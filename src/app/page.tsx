@@ -16,6 +16,8 @@ export default function Home() {
           </Link>
         </div>
       </nav>
+
+      <button className='btn bg-primary'>TEST</button>
     </div>
   )
 }
